@@ -1,0 +1,13 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.movies {
+	display: flex;
+	flex-wrap: wrap;
+}
+.movies__item {
+	padding: 10px;
+	margin: 10px;
+	background-color: rgb(150, 150, 150);
+}
